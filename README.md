@@ -1,6 +1,9 @@
 # e-commerceApp
 Spring BOOT+ Thymeleaf + OAUTH2 + H2 DB + HIBERNATE
 
+# REGISTER PAGE
+![image](https://user-images.githubusercontent.com/69572868/226133974-25544f62-2d9a-4e8f-b3e4-9d81a46757ff.png)
+
 # LOGIN PAGE
 ![image](https://user-images.githubusercontent.com/69572868/226133651-ff7ad1b4-2480-49fc-96a4-f4e8309996c3.png)
 

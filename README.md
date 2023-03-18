@@ -13,8 +13,7 @@ Spring BOOT+ Thymeleaf + OAUTH2 + H2 DB + HIBERNATE
 ![image](https://user-images.githubusercontent.com/69572868/226133745-ba8f2d53-f1e8-4b3a-9df4-4c7a5fac6c5e.png)
 
 # CART DETAIL
-![image](https://user-images.githubusercontent.com/69572868/226133781-3b076be8-5456-4c39-939d-00c4d691b2f3.png)
-
+![image](https://user-images.githubusercontent.com/69572868/226133908-7e1c4717-8285-49f5-8bd5-f1942c5ea378.png)
 # CHECKOUT PAGE
 ![image](https://user-images.githubusercontent.com/69572868/226133849-2db03a87-975d-44c0-9735-1aef821c154c.png)
 

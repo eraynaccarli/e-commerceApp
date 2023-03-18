@@ -1,2 +1,21 @@
 # e-commerceApp
 Spring BOOT+ Thymeleaf + OAUTH2 + H2 DB + HIBERNATE
+
+# LOGIN PAGE
+![image](https://user-images.githubusercontent.com/69572868/226133651-ff7ad1b4-2480-49fc-96a4-f4e8309996c3.png)
+
+#OAUTH2 FOR GOOGLE 
+
+# SHOP PAGE
+![image](https://user-images.githubusercontent.com/69572868/226133729-bf9f0aa6-2c19-40ef-a6f6-028ab33ce9c8.png)
+
+# PRODUCT DETAIL
+![image](https://user-images.githubusercontent.com/69572868/226133745-ba8f2d53-f1e8-4b3a-9df4-4c7a5fac6c5e.png)
+
+# CART DETAIL
+![image](https://user-images.githubusercontent.com/69572868/226133781-3b076be8-5456-4c39-939d-00c4d691b2f3.png)
+
+# CHECKOUT PAGE
+![image](https://user-images.githubusercontent.com/69572868/226133849-2db03a87-975d-44c0-9735-1aef821c154c.png)
+
+
